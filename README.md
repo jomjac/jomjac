@@ -14,7 +14,7 @@ I'm José María, a self-taught programming enthusiast. I am an economics studen
 </p>
 
 - 💼 any freelance work? do reach, [email](mailto:economista.jomjac@outlook.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help ;)
 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
