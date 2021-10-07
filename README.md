@@ -52,4 +52,4 @@ I'm José María, a self-taught programming enthusiast. I am an economics studen
 print("I have no special talent, I'm just passionately curious")
 ```  
 
-### <<img src="https://media.giphy.com/media/glsqUjcu4vzig/giphy.gif" width="60px">
+### <img src="https://media.giphy.com/media/glsqUjcu4vzig/giphy.gif" width="60px">
