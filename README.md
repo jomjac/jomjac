@@ -13,8 +13,46 @@ I'm José María, a self-taught programming enthusiast. I am an economics studen
   </em>  
 </p>
 
+- 💼 any freelance work? do reach, [email](economista.jomjac@outlook.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
+
+  
+
+
+<a href="https://twitter.com/mwjomjac">
+  <img align="left" alt="jomjac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/jomjac">
+  <img align="left" alt="jomjac | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
+<a href="https://www.linkedin.com/in/jomjac">
+  <img align="left" alt="jomjac's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+<br />
+
+  
+  
+
+ #### Languages and Tools 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+ 
 ```py
 print("I have no special talent, I'm just passionately curious")
-```
+```  
 
 ### <img src="https://media.giphy.com/media/CUe2pyv7sNUkM/giphy.gif" width="60px"> <img src="https://media.giphy.com/media/CUe2pyv7sNUkM/giphy.gif" width="60px"> <img src="https://media.giphy.com/media/CUe2pyv7sNUkM/giphy.gif" width="60px">
+  
+
+
