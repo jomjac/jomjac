@@ -13,7 +13,7 @@ I'm José María, a self-taught programming enthusiast. I am an economics studen
   </em>  
 </p>
 
-- 💼 any freelance work? do reach, [email](economista.jomjac@outlook.com) :)
+- 💼 any freelance work? do reach, [email](economista.jomjac@outlook.com):)
 - 💬 ask me about anything, i am happy to help;
 
 
