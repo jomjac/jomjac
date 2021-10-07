@@ -50,6 +50,7 @@ I'm José María, a self-taught programming enthusiast. I am an economics studen
  
 ```py
 print("I have no special talent, I'm just passionately curious")
+print("Albert Einstein")
 ```  
 
 ### <img src="https://media.giphy.com/media/glsqUjcu4vzig/giphy.gif" width="60px">
