@@ -54,8 +54,5 @@ print("I have no special talent, I'm just passionately curious")
 print("Albert Einstein")
 ```  
 
-### <img src="https://media.giphy.com/media/glsqUjcu4vzig/giphy.gif" width="60px">
-
-### <img src="https://media.giphy.com/media/73ySwyMLELK92Di3qt/giphy.gif" width="60px">
-
+### <img src="https://media.giphy.com/media/glsqUjcu4vzig/giphy.gif" width="60px"> <img src="https://media.giphy.com/media/73ySwyMLELK92Di3qt/giphy.gif" width="85px">
 
