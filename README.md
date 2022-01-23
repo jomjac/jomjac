@@ -1,5 +1,10 @@
 # JOMJAC&nbsp;<img src="https://media.giphy.com/media/frAqrq8f3cgwGxHfCD/giphy.gif" width="50px">
 
+<div align="center">
+  <a href="https://github.com/jomjac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jomjac&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+</div>
+  
 ### Hello World!! 👋🏽🌎
 I'm José María, a self-taught programming enthusiast. I am an economics student. I fell in love with Python when my life didn't make sense, sometimes I use R, lately I'm attracted to Julia, I hope Python doesn't find out. 👾
 
