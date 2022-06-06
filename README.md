@@ -1,4 +1,4 @@
-# JOMJAC&nbsp;<img src="https://media.giphy.com/media/frAqrq8f3cgwGxHfCD/giphy.gif" width="50px">
+# JOMJAC&nbsp;<img src="https://media.giphy.com/media/frAqrq8f3cgwGxHfCD/giphy.gif" width="5px">
   
 ### Hello World!! 👋🏽🌎
 I'm José María, a self-taught programming enthusiast. I am an economics student. I fell in love with Python when my life didn't make sense, sometimes I use R, lately I'm attracted to Julia, I hope Python doesn't find out. 👾
